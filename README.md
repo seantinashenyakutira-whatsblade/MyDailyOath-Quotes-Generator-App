@@ -72,7 +72,7 @@ npm start
 ## 👨‍💻 Author Information
 
 **Name:** Sean Nyakutira  
-**Profession:** Student / Junior Software Engineer  
+**Profession:** Student / Software Developer 
 **Location:** Lusaka, Zambia  
 **University:** Eden University  
 
@@ -287,4 +287,5 @@ MIT
 
 **Developed by:** Sean Nyakutira  
 Made with 💕 for personal growth and reflection
+
 
